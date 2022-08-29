@@ -1,17 +1,23 @@
 # Hi there!
-My name is Daniel, (You can call me Dany), I'm studying ICT.
 
-Currently, I want to learn **Node.js** to become *backend* developer (maybe fullstack in the future). I'm learning from freecodecamp rn, and want to focus on Discord bots for practice.
+My name is Daniel. I'm studying ICT on The Silesian Technical University.
 
-Have some ideas in mind, I will work with open sources projects when my skill will be on accaptable level.
+Currently, ~~I want to learn **Node.js** to become *backend* developer (maybe fullstack in the future).~~ I'm learning Python and stack to become DevOps.
 
-## Current projects WiP:
-- Soon™
+# Tools and Languages:
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 
-## Finished (for now) projects:
-- Soon™
+# Projects WiP:
 
+- [PyDisk](https://github.com/Anrsh/PyDisk) - (Working name) Another Disk Manager. School Project
 
+# Projects Closed:
+
+Soon™
 
 
 <!---
