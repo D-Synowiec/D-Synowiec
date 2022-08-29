@@ -11,11 +11,11 @@ Currently, ~~I want to learn **Node.js** to become *backend* developer (maybe fu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 
-# Projects WiP:
+# Projects WiP
 
 - [PyDisk](https://github.com/Anrsh/PyDisk) - (Working name) Another Disk Manager. School Project
 
-# Projects Closed:
+# Projects Closed
 
 Soon™
 
