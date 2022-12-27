@@ -2,22 +2,23 @@
 
 My name is Daniel. I'm studying ICT on The Silesian Technical University.
 
-Currently, ~~I want to learn **Node.js** to become *backend* developer (maybe fullstack in the future).~~ I'm learning Python and stack to become DevOps.
+Currently,  I'm learning DevOps with some project in backend Node.js.
 
 # Tools and Languages
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+
 
 # Projects WiP
 
-- [PyDisk](https://github.com/Anrsh/PyDisk) - (Working name) Another Disk Manager. School Project
+  - BackupMyPhotos - School Project - Online photo gallery with abilities to make and control backups (DVDs, HDD etc.)
 
 # Projects Closed
 
-Soon™
+  - [PyDisk](https://github.com/Anrsh/PyDisk) - Another Disk Manager. School Project [Not Finished]
 
 
 <!---
