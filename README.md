@@ -19,9 +19,9 @@ Currently,  I'm learning DevOps with some projects in backend Node.js.
 
 # Projects Closed
 
-  - [PyDisk](https://github.com/Anrsh/PyDisk) - Another Disk Manager. University Project [Not Finished]
+  - [PyDisk](https://github.com/D-Synowiec/PyDisk) - Another Disk Manager. University Project [Not Finished]
   
-  - [BackupMyPhotos](https://github.com/Anrsh/2022_BD2_S7_Synowiec) - University Project - Online photo gallery with abilities to make and control backups (DVDs, HDD etc.) [Not Finished]
+  - [BackupMyPhotos](https://github.com/D-Synowiec/2022_BD2_S7_Synowiec) - University Project - Online photo gallery with abilities to make and control backups (DVDs, HDD etc.) [Not Finished]
 
 
 <!---
